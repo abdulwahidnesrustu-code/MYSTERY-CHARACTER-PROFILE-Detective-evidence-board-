@@ -1,4 +1,4 @@
-# Detective Evidence Board – Mystery Character Profile
+# Detective Evidence Board -Mystery Character Profile
 
 This project is a single-page detective-style webpage that presents the investigation of an unknown subject using an evidence board layout. The page is designed using basic HTML and inline CSS.
 
